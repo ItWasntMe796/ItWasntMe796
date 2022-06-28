@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItWasntMe796
 - 👀 I’m interested in C++ and C languages
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 
 <!---
 ItWasntMe796/ItWasntMe796 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
